@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(9, 109, 62) !important;
+  color: beige;
+}
+
+h3{
+  color: aliceblue;
+}
+
+.bordered {
+  border: #343a40 2px solid;
+  background-color: rgb(190, 233, 134);
+  padding: 0 10 10 10;
+}
